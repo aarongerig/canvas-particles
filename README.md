@@ -1,1 +1,1 @@
-# canvas-resize
+# Canvas Particles
